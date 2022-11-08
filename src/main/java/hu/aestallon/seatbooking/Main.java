@@ -1,2 +1,4 @@
-package hu.aestallon.seatbooking;public class Main {
+package hu.aestallon.seatbooking;
+
+public class Main {
 }
